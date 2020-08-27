@@ -14,9 +14,10 @@
 
 ## TECHNOLOGIES
 Project is created with: 
-* Python - **pandas, keras, flask, numpy, seaborn, sklearn, pickle**
+* Python - **pandas, keras, numpy, seaborn, sklearn, pickle**
 * Amazon Web Services - **EC2 Server**
 * Docker
+* Flask
 
 ## ALGORITHMS
 * Long Short Term Memory(LSTM)
