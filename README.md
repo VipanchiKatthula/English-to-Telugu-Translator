@@ -1,6 +1,6 @@
 # English-to-Telugu-Translator
 
-### TABLE OF CONTENTS
+## TABLE OF CONTENTS
 * [Objective](#objective)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
@@ -75,3 +75,7 @@ Run the following commands in cmd prompt to connect to the VM:[docker_commands](
 You will be able to access the deployed model in the url: http://public-dns-name/predict
 ## RESULTS
 The deployed model can be accessed from any python development tool like Jupyter Notebook or Spyder. As the data used for the model development was much smaller than the training data for Google translate, we were not able to achieve that level of accuracy. However, the deployed model can be improved upon and made perfect by adding advanced techniques like attention. 
+
+## REFERENCES
+* https://towardsdatascience.com/deploy-ml-models-at-scale-151204549f41
+* https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf
