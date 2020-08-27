@@ -34,6 +34,7 @@ First we build the LSTM model and save the model weights(Could not share it on G
 
 # App development
 Build a Flask application which can be access from local machine at the address http://127.0.0.1:5000/predict. To check if the application is working or not, we put "/" method where we are printing "Hello World!" in the address http://127.0.0.1:5000/.
+
 ![GitHub Logo](/images/Predictmethod.PNG)
 
 The code file to build the Flask application is available here: https://github.com/VipanchiKatthula/English-to-Telugu-Translator/blob/master/code/main_program.py
