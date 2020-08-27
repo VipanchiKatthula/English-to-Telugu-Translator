@@ -52,7 +52,7 @@ Once the Flask application is up and running in the local PC. You can prepare to
 
 ![GitHub Logo](/images/AWS2Launch.png)
 
-* Choose **Amazon Linux 2 AMI (EVM)**
+* Choose **Amazon Linux 2 AMI (HVM)**
 
 ![GitHub Logo](/images/AWS3AMI.png)
 
